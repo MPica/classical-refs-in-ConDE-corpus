@@ -1,3 +1,4 @@
+(: Récupéré et adapté de la requête principale de https://github.com/RIN-ConDE/tools/blob/main/MaX-tools/index_references.xq . :)
 <html><head><title>Index des personnes</title></head><body><index type="personnes">{
   (: On fait la liste de chaque identifiant de notices bibliographiques différent dans le corpus.:)
   for $persId in distinct-values(db:open("base-version")//*:sourceDesc//*:listPerson//*:person/@xml:id)
