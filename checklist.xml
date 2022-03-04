@@ -1,4 +1,5 @@
-<people xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<people>
     <basnage>
         <person xml:id="anian"><persName xml:lang="la">Anianus</persName><persName xml:lang="fr">Anian</persName></person>
         <person xml:id="herold" sameAs="https://catalogue.bnf.fr/ark:/12148/cb10586873j"><persName xml:lang="la">Heroldus</persName><persName xml:lang="fr"><surname>Herold</surname><forename>Johann Berthold</forename></persName></person>
