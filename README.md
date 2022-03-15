@@ -12,3 +12,8 @@ This README file will be updated as I work.
 ### Work files:
 
 * checklist.xml contains a copy of all authors without a date.
+
+### Initial data visualisation:
+
+Dates of authors mentionned within the corpus:
+![graphical rendering of authors timeline](dataviz/dates-of-authors-mentionned_prov-rawgraphs_gantt-chart.jpg)
