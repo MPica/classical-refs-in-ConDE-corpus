@@ -22,5 +22,5 @@ Dates of authors mentionned within the corpus:
 Warning: the date rendering is not final as it does not take uncertainty of dates into account. Such visualisation is planned, though, and this is the reason behind the four date columns and the "certainty" value.
 
 Witnesses linked with authors:
-![graphical rendering of authors timeline](dataviz/authors-and-witness-links_prov-palladio_graph.png)
+![graphical rendering of authors timeline](dataviz/authors-and-witness-links-1_prov-palladio_graph.png)
 (Provenance : [Palladio](https://hdlab.stanford.edu/palladio), Graph, with [mentions.csv file](mentions.csv))
