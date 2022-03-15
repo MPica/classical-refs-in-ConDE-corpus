@@ -11,7 +11,8 @@ This README file will be updated as I work.
 
 ### Work files:
 
-* checklist.xml contains a copy of all authors without a date.
+* checklist.xml contains a copy of all TEI-XML author declaration without a date, classified by witness provenance, for debugging purposes. This is not a working XML file and only aims at allowing me to understand problems.
+* mentions.csv contains an entry for each mention within targetted time-span (born before yead 550), with identification for the witness, part, chapter and section which contains it and, of course, the identity of the author mentionned there. Therefore, if an author is mentionned several times within each section, the table will contain multiple entries with the exact same information.
 
 ### Initial data visualisation:
 
