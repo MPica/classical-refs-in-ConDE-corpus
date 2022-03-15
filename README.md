@@ -17,3 +17,9 @@ This README file will be updated as I work.
 
 Dates of authors mentionned within the corpus:
 ![graphical rendering of authors timeline](dataviz/dates-of-authors-mentionned_prov-rawgraphs_gantt-chart.jpg)
+
+Witnesses linked with authors (emphasis on witness importance):
+![graphical rendering of authors timeline](dataviz/authors-and-witness-links-2_prov-palladio_graph.png)
+
+Witnesses linked with authors (emphasis on author importance):
+![graphical rendering of authors timeline](dataviz/authors-and-witness-links-1_prov-palladio_graph.png)
