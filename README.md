@@ -17,9 +17,12 @@ This README file will be updated as I work.
 
 Dates of authors mentionned within the corpus:
 ![graphical rendering of authors timeline](dataviz/dates-of-authors-mentionned_prov-rawgraphs_gantt-chart.jpg)
+(Provenance : [RawGraphs](https://rawgraphs.io/), Gantt chart, with [mentions.csv file](mentions.csv).)
 
 Witnesses linked with authors (emphasis on witness importance):
 ![graphical rendering of authors timeline](dataviz/authors-and-witness-links-2_prov-palladio_graph.png)
+(Provenance : [Palladio](https://hdlab.stanford.edu/palladio), Graph, with [mentions.csv file](mentions.csv))
 
 Witnesses linked with authors (emphasis on author importance):
 ![graphical rendering of authors timeline](dataviz/authors-and-witness-links-1_prov-palladio_graph.png)
+(Provenance : [Palladio](https://hdlab.stanford.edu/palladio), Graph, with [mentions.csv file](mentions.csv))
