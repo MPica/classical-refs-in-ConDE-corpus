@@ -25,6 +25,6 @@ Witnesses linked with authors:
 (Provenance : [Palladio](https://hdlab.stanford.edu/palladio), Graph, with [mentions.csv file](mentions.csv))
 
 Authors within witness structure:
-![graphical rendering of how authors are present within the structure of documents](authors-by-witness-structure_prov-rawgraphs_linear-dendogram.png)
+![graphical rendering of how authors are present within the structure of documents](dataviz/authors-by-witness-structure_prov-rawgraphs_linear-dendogram.png)
 (Provenance : [RawGraphs](https://rawgraphs.io/), Linear dendogram.)
 Warning: the rendering is not final because of the absurd format necessary for the image to be readable, as well as because this does not give us information about topics within each portion of text.
