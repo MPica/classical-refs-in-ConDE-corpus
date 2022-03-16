@@ -24,6 +24,11 @@ Witnesses linked with authors:
 ![graphical rendering of author-witness network](dataviz/authors-and-witness-links-1_prov-palladio_graph.png)
 (Provenance : [Palladio](https://hdlab.stanford.edu/palladio), Graph, with [mentions.csv file](mentions.csv))
 
+Authors by witness:
+![graphical rendering of how authors are present within each witness](dataviz/authors-by-witness_nb-order_prov-rawgraphs_linear-dendogram.png)
+(Provenance : [RawGraphs](https://rawgraphs.io/), Linear dendogram.)
+Warning: the rendering is not final because of the absurd format necessary for the image to be readable.
+
 Authors within witness structure:
 ![graphical rendering of how authors are present within the structure of documents](dataviz/authors-by-witness-structure_nb-order_prov-rawgraphs_linear-dendogram.png)
 (Provenance : [RawGraphs](https://rawgraphs.io/), Linear dendogram.)
