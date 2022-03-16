@@ -17,7 +17,7 @@ This README file will be updated as I work.
 ### Initial data visualisation:
 
 Dates of authors mentionned within the corpus:
-![graphical rendering of authors timeline](dataviz/dates-of-authors-mentionned_prov-rawgraphs_gantt-chart.jpg)
+![graphical rendering of authors timeline](dataviz/dates-of-authors-mentionned_prov-rawgraphs_gantt-chart.png)
 (Provenance : [RawGraphs](https://rawgraphs.io/), Gantt chart, with [mentions.csv file](mentions.csv).)
 
 Witnesses linked with authors:
