@@ -19,8 +19,12 @@ This README file will be updated as I work.
 Dates of authors mentionned within the corpus:
 ![graphical rendering of authors timeline](dataviz/dates-of-authors-mentionned_prov-rawgraphs_gantt-chart.jpg)
 (Provenance : [RawGraphs](https://rawgraphs.io/), Gantt chart, with [mentions.csv file](mentions.csv).)
-Warning: the date rendering is not final as it does not take uncertainty of dates into account. Such visualisation is planned, though, and this is the reason behind the four date columns and the "certainty" value.
 
 Witnesses linked with authors:
-![graphical rendering of authors timeline](dataviz/authors-and-witness-links-1_prov-palladio_graph.png)
+![graphical rendering of author-witness network](dataviz/authors-and-witness-links-1_prov-palladio_graph.png)
 (Provenance : [Palladio](https://hdlab.stanford.edu/palladio), Graph, with [mentions.csv file](mentions.csv))
+
+Authors within witness structure:
+![graphical rendering of how authors are present within the structure of documents](authors-by-witness-structure_prov-rawgraphs_linear-dendogram.png)
+(Provenance : [RawGraphs](https://rawgraphs.io/), Linear dendogram.)
+Warning: the rendering is not final because of the absurd format necessary for the image to be readable, as well as because this does not give us information about topics within each portion of text.
