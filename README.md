@@ -23,7 +23,7 @@ This README file will be updated as I work.
 * [Rtable_birthdate-witness.csv](Rtable_birthdate-witness.csv) contains the output of a `table(mentions$'Birth start', mentions$Witness)` function in R, executed on *mentions.csv*.
 * [Rtable_witness-part.csv](Rtable_witness-part.csv) contains the output of a `table(mentions$Witness, mentions$part)` function in R, executed on *mentions.csv*.
 * [authors-birthdate-witness_joined-dataiku.csv](authors-birthdate-witness_joined-dataiku.csv) contains the results of the *Rtable_birthdate-witness.csv* file, to which the names of authors was added with the [Dataiku](https://www.dataiku.com/) join functions.
-* [authors-birthdate-witness_for-timeline.csv](authors-birthdate-witness_for-timeline.csv) contains the previous file, transformed to fit dataviz needs with Python terminal commands as visible in [screencapture](Capture d’écran de 2022-03-18 14-23-59.png).
+* [authors-birthdate-witness_for-timeline.csv](authors-birthdate-witness_for-timeline.csv) contains the previous file, transformed to fit dataviz needs with Python terminal commands as visible in [screencapture](dataviz/Capture d’écran de 2022-03-18 14-23-59.png).
 
 
 ### Initial data visualisation:
