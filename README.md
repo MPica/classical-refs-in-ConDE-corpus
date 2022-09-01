@@ -41,7 +41,7 @@ How witnesses are dispatched for each author:
 
 ### Scripts:
 
-* The main Python script is [extraction-classification.ipynb](extraction-classification.ipynb) extracts the entity information on relevant authors from the ConDÉ corpus, connects them with their IdRef entity when possible, and extracts all mentions within the corpus as left-hand context, mention, right-hand context and precise origin information (titles). Its outputs are written within a folder bearing the minute time stamp. They are: a general author CSV table, its equivalent in Json, the relevant author CSV table, an occurrence output report and one CSV table per author, containing every extracted information.
+* The main Python script is [sort_and_extract.ipynb](sort_and_extract.ipynb) extracts the entity information on relevant authors from the ConDÉ corpus, connects them with their IdRef entity when possible, and extracts all mentions within the corpus as left-hand context, mention, right-hand context and precise origin information (titles). Its outputs are written within a folder bearing the minute time stamp. They are: a general author CSV table, its equivalent in Json, the relevant author CSV table, an occurrence output report and one CSV table per author, containing every extracted information.
 * The next and last Python script is [dataviz.ipynb](dataviz.ipynb). It is meant to produce dataviz images. Not operational (yet).
 
 ### Main CSV files (in 'tables' folder):
