@@ -1,0 +1,95 @@
+id,ConDÉ name,found,IdRef name,BnF,IdRef,earliest birth,latest birth,earliest death,latest death
+aristote,Aristote,yes,Apulée (0125?-0180?),http://data.bnf.fr/ark:/12148/cb125686918,http://www.idref.fr/034995145/id,-0384,-0384,-0322,-0322
+marculphe,Marculphe,yes,Marcoul (0490?-0558 ; saint),http://data.bnf.fr/ark:/12148/cb15607656v,http://www.idref.fr/186330057/id,0490,0490,0558,0558
+justinien,Justinien Ier,yes,Justinien Ier (0482-0565 ; empereur de Byzance),http://data.bnf.fr/ark:/12148/cb12055108q,http://www.idref.fr/027770591/id,0482,0482,0565,0565
+philon,Philon d'Alexandrie,yes,Philon d'Alexandrie (0030? av. J.-C.-0040?),http://data.bnf.fr/ark:/12148/cb11919600w,http://www.idref.fr/027070980/id,-0030,-0030,,
+cicero,Cicéron,yes,Cicéron (0106-0043 av. J.-C.),http://data.bnf.fr/ark:/12148/cb11885977m,http://www.idref.fr/02665234X/id,-0106,-0106,-0043,-0043
+quintilien,Quintilien,yes,Quintilien (0030?-0100?),http://data.bnf.fr/ark:/12148/cb11887333t,http://www.idref.fr/026668580/id,0030,0030,0100,0100
+pline,Pline le Jeune,yes,Pline le Jeune (0061?-0114?),http://data.bnf.fr/ark:/12148/cb11920050t,http://www.idref.fr/027076474/id,0061,0061,0114,0114
+tacite,Tacite,yes,Tacite (0055?-0120?),http://data.bnf.fr/ark:/12148/cb11887667z,http://www.idref.fr/026672316/id,0055,0055,0120,0120
+scipion,Scipion l'Africain,yes,Scipion l'Africain (0235-0183 av. J.-C.),http://data.bnf.fr/ark:/12148/cb12651580m,http://www.idref.fr/050595741/id,-0235,-0235,-0183,-0183
+pausanias,Pausanias,yes,Pausanias (01..-01..),http://data.bnf.fr/ark:/12148/cb11918834h,http://www.idref.fr/028159969/id,0100,0199,0100,0199
+salvian,Salvien,yes,Salvien (0390?-0484?),http://data.bnf.fr/ark:/12148/cb13162798z,http://www.idref.fr/027397793/id,0390,0390,0484,0484
+papinien,Papinien,no,,,,0142,0142,0212,0212
+arist,Aristote,yes,Apulée (0125?-0180?),http://data.bnf.fr/ark:/12148/cb125686918,http://www.idref.fr/034995145/id,-0384,-0384,-0322,-0322
+lampride,Lampride,yes,Guillaume de Jumièges (10..-1090?),http://data.bnf.fr/ark:/12148/cb122973334,http://www.idref.fr/031831532/id,0300,0399,0300,0399
+homere,Homère,yes,Homère (08..?-08..? av. J.-C.),http://data.bnf.fr/ark:/12148/cb11907688f,http://www.idref.fr/026924005/id,-0899,-0800,-0899,-0800
+virgile,Virgile,yes,Virgile (0070-0019 av. J.-C.),http://data.bnf.fr/ark:/12148/cb11887823w,http://www.idref.fr/026674327/id,-0070,-0070,-0019,-0019
+caesar,Jules César ,yes,"César, Jules (0100-0044 av. J.-C.)",http://data.bnf.fr/ark:/12148/cb11894764p,http://www.idref.fr/027303136/id,-0100,-0100,-0044,-0044
+s-germain,Germain (saint),no,,,,0490,0499,,
+tertullien,Tertullien,yes,Tertullien (0155?-0222?),http://data.bnf.fr/ark:/12148/cb11926244w,http://www.idref.fr/027398153/id,0155,0155,0222,0222
+artemidore,Artemidore d'Éphèse,yes,Artémidore d'Éphèse (01..-01..?),http://data.bnf.fr/ark:/12148/cb13091333g,http://www.idref.fr/026692538/id,0100,0199,0100,0199
+ulpien,Ulpien,yes,Ulpien (0160-0228),http://data.bnf.fr/ark:/12148/cb14639343n,http://www.idref.fr/067309569/id,0160,0160,0225,0225
+diocletien,Dioclétien,yes,Dioclétien (0245-0313 ; empereur romain),http://data.bnf.fr/ark:/12148/cb121834979,http://www.idref.fr/030417112/id,0245,0245,0313,0313
+diod,Diodore de Sicile,yes,Diodore de Sicile (0090?-0020? av. J.-C.),http://data.bnf.fr/ark:/12148/cb11900233c,http://www.idref.fr/026832682/id,-0090,-0090,-0020,-0020
+apulee,Apulée,yes,Apulée (0125?-0180?),http://data.bnf.fr/ark:/12148/cb125686918,http://www.idref.fr/034995145/id,0125,0125,0180,0180
+seneca,Sénèque,yes,Sénèque (0004 av. J.-C.-0065),http://data.bnf.fr/ark:/12148/cb11887555p,http://www.idref.fr/026670984/id,-0004,-0004,0065,0065
+terence,Térence,yes,Térence (0190?-0159 av. J.-C.),http://data.bnf.fr/ark:/12148/cb118876898,http://www.idref.fr/026672588/id,-0190,-0190,-0159,-0159
+horace,Horace,yes,Horace (0065-0008 av. J.-C.),http://data.bnf.fr/ark:/12148/cb11886570b,http://www.idref.fr/026659166/id,-0065,-0065,-0008,-0008
+tite-live,Tite-Live,yes,Tite-Live (0059? av. J.-C.-0017),http://data.bnf.fr/ark:/12148/cb11886799m,http://www.idref.fr/026662019/id,-0059,-0059,0017,0017
+spartian,Aelius Spartianus,yes,"Spartianus, Aelius (03..?-03..?)",http://data.bnf.fr/ark:/12148/cb104864618,http://www.idref.fr/130559571/id,0300,0399,0300,0399
+pelage,Pélage Ier,yes,Pélage I (0500?-0561 ; pape),http://data.bnf.fr/ark:/12148/cb101353120,http://www.idref.fr/113894953/id,0500,0599,,
+gelase, Gélase Ier,no,,,,0400,0499,,
+greg-1, Grégoire Ier,yes,Grégoire I (0540?-0604 ; pape),http://data.bnf.fr/ark:/12148/cb11886472r,http://www.idref.fr/026657929/id,0540,0540,0604,0604
+thucydide,Thucydide,yes,Thucydide (0460?-0395? av. J.-C.),http://data.bnf.fr/ark:/12148/cb119266111,http://www.idref.fr/02716280X/id,-0460,-0460,-0395,-0395
+isidore,Isidore de Séville,yes,Isidore de Séville (0560?-0636 ; saint),http://data.bnf.fr/ark:/12148/cb119082935,http://www.idref.fr/026931494/id,0560,0560,0636,0636
+honorius,Honorius,yes,Honorius (0384-0423 ; empereur romain),http://data.bnf.fr/ark:/12148/cb12566387q,http://www.idref.fr/034969039/id,0384,0384,0423,0423
+arcadius,Arcadius,yes,Arcadius (0377?-0408 ; empereur d'Orient),http://data.bnf.fr/ark:/12148/cb12356604g,http://www.idref.fr/032559453/id,0377,0377,0408,0408
+vopiscus,Flavius Vopiscus,yes,"Vopiscus, Flavius (02..-03..)",http://data.bnf.fr/ark:/12148/cb131840231,http://www.idref.fr/035355654/id,0200,0299,0300,0399
+augustin,Augustin (saint),yes,Augustin (0354-0430 ; saint),http://data.bnf.fr/ark:/12148/cb11889551s,http://www.idref.fr/027280896/id,0354,0354,0430,0430
+modestin,none,yes,"Modestinus, Herennius",http://data.bnf.fr/ark:/12148/cb13486846w,http://www.idref.fr/145299961/id,0200,0299,0200,0299
+denis-le-petit,Denis le Petit,yes,Denys le Petit (0497?-0545?),http://data.bnf.fr/ark:/12148/cb11929838b,http://www.idref.fr/027206009/id,0497,0497,0545,0545
+saluste,Salluste,yes,Salluste (0086-0035 av. J.-C.),http://data.bnf.fr/ark:/12148/cb11887462p,http://www.idref.fr/02666996X/id,-0086,-0086,-0035,-0035
+fortunat,Venance Fortunat,yes,Venance Fortunat (0530-0601 ; saint),http://data.bnf.fr/ark:/12148/cb12162548q,http://www.idref.fr/03015197X/id,0530,0530,0601,0601
+heliodore,Héliodore de Larisse,no,,,,0200,0299,0200,0299
+servius,Maurus Honoratus Servius,yes,"Servius, Maurus Honoratus (0363?-03..)",http://data.bnf.fr/ark:/12148/cb12157706b,http://www.idref.fr/030091144/id,0363,0363,,
+curtius,Quinte-Curce,yes,Quinte-Curce (00..-00..),http://data.bnf.fr/ark:/12148/cb12023228h,http://www.idref.fr/028386604/id,0001,0099,0001,0099
+martial,Martial,yes,Martial (0040?-0104?),http://data.bnf.fr/ark:/12148/cb11886893t,http://www.idref.fr/027383709/id,0040,0040,0104,0104
+halic,Denis d'Halicarnasse,yes,Denys d'Halicarnasse (006.? av. J.-C.-0007?),http://data.bnf.fr/ark:/12148/cb13091418v,http://www.idref.fr/02683281X/id,0060,0069,,
+suetone,Suétone,yes,Suétone (0069?-0126?),http://data.bnf.fr/ark:/12148/cb119257294,http://www.idref.fr/027151387/id,0069,0069,0126,0126
+s-paul,Paul (saint),no,,,,0001,0099,0001,0099
+aulus,Aulu-Gelle,yes,Aulu-Gelle (0123?-0180?),http://data.bnf.fr/ark:/12148/cb11886402k,http://www.idref.fr/026657112/id,0123,0123,0180,0180
+plaute,Plaute,yes,Plaute (0254-0184 av. J.-C.),http://data.bnf.fr/ark:/12148/cb11887290c,http://www.idref.fr/026668092/id,-0254,-0254,-0184,-0184
+antipater,Antipater de Thessalonique,no,,,,-0099,0001,0001,0099
+zenon,Zénon,yes,Zénon (0430?-0491 ; empereur d'Orient),http://data.bnf.fr/ark:/12148/cb16003358v,http://www.idref.fr/06865815X/id,0430,0430,0491,0491
+platon,Platon,yes,Platon (0427?-0348? av. J.-C.),http://data.bnf.fr/ark:/12148/cb11920019p,http://www.idref.fr/027076164/id,-0427,-0427,-0348,-0348
+solon,Solon,yes,Solon (0640?-0561 av. J.-C.),http://data.bnf.fr/ark:/12148/cb13091860r,http://www.idref.fr/028829832/id,-0640,-0640,-0561,-0561
+basile,Basile de Césarée (saint),yes,Basile de Césarée (0329?-0379 ; saint),http://data.bnf.fr/ark:/12148/cb11890479x,http://www.idref.fr/026708426/id,0329,0329,0379,0379
+leon-pape, Léon Ier,yes,Léon I (039.?-0461 ; pape),http://data.bnf.fr/ark:/12148/cb12094545m,http://www.idref.fr/029286638/id,0390,0399,,
+ambroise,Ambroise (saint),yes,Ambroise (0340?-0397 ; saint),http://data.bnf.fr/ark:/12148/cb11888642v,http://www.idref.fr/026684217/id,0340,0340,0397,0397
+theophile,Théophile Antecessor,yes,Théophile Antecessor (05..-05..),http://data.bnf.fr/ark:/12148/cb13200047k,http://www.idref.fr/035144793/id,0500,0599,0500,0599
+maximien,Maximien,no,,,,0250,0250,0310,0310
+anast,Anastase I,yes,Anastase I (0431?-0518 ; empereur d'Orient),http://data.bnf.fr/ark:/12148/cb12066967w,http://www.idref.fr/028937325/id,0431,0431,0518,0518
+greg-3, Grégoire III,no,,,,0540,0540,0604,0604
+cassiod,Cassiodore,yes,Cassiodore (0490?-0580?),http://data.bnf.fr/ark:/12148/cb121582004,http://www.idref.fr/030097703/id,0490,0490,0580,0580
+firmicus,Julius Firmicus Maternus,yes,"Firmicus Maternus, Julius",http://data.bnf.fr/ark:/12148/cb119028058,http://www.idref.fr/026865491/id,0300,0399,0400,0499
+clem-alex,Clément d'Alexandrie,yes,Clément d'Alexandrie (0150?-021.?),http://data.bnf.fr/ark:/12148/cb11897014x,http://www.idref.fr/026791145/id,0150,0150,,
+xenophon,Xénophon,yes,"Vossius, Gerardus Joannes (1577-1649)",http://data.bnf.fr/ark:/12148/cb12080638f,http://www.idref.fr/029112540/id,-0430,-0430,-0355,-0355
+plutarque,Plutarque,yes,Plutarque (0046?-0120?),http://data.bnf.fr/ark:/12148/cb119200813,http://www.idref.fr/027076784/id,0046,0046,0120,0120
+hypocrate,Hippocrate,yes,Hippocrate (0460-0377 av. J.-C. ; médecin),http://data.bnf.fr/ark:/12148/cb119075525,http://www.idref.fr/027324885/id,-0460,-0460,-0377,-0377
+hermogenien,Hermogénien,yes,Hermogenianus (02..-03..),http://data.bnf.fr/ark:/12148/cb15503557s,http://www.idref.fr/13035015X/id,0200,0299,0200,0299
+celse,Celse,no,,,,0100,0199,0100,0199
+livius,Tite Live,no,,,,-0059,-0059,0027,0027
+ammian,Marcellin Ammien,yes,Ammien Marcellin (0330?-0400?),http://data.bnf.fr/ark:/12148/cb118886885,http://www.idref.fr/026684942/id,0330,0330,0395,0395
+herodote,Hérodote,yes,Hérodote (0484?-0420? av. J.-C.),http://data.bnf.fr/ark:/12148/cb119073789,http://www.idref.fr/085720917/id,-0484,-0484,-0420,-0420
+paulus,Paulus,yes,"Paulus, Julius (01..-02..)",http://data.bnf.fr/ark:/12148/cb12068940b,http://www.idref.fr/028962443/id,0100,0199,0200,0299
+appo,Sidoine Apollinaire,yes,Sidoine Apollinaire (0431?-0487? ; saint),http://data.bnf.fr/ark:/12148/cb12159352w,http://www.idref.fr/027471381/id,0431,0431,0487,0487
+ennius,Quintus Ennius,yes,"Ennius, Quintus (0239-0169 av. J.-C.)",http://data.bnf.fr/ark:/12148/cb120078470,http://www.idref.fr/028193776/id,-0239,-0239,-0169,-0169
+catulle,Catulle,yes,Catulle (0087?-0052? av. J.-C.),http://data.bnf.fr/ark:/12148/cb118955751,http://www.idref.fr/02677254X/id,-0087,-0087,-0052,-0052
+neratius,Lucius Neratius Priscus,no,,,,0001,0099,0100,0199
+lycurgue,Lycurgue,yes,Lycurgue (0390?-0324? av. J.-C.),http://data.bnf.fr/ark:/12148/cb13092606n,http://www.idref.fr/032965370/id,-0390,-0390,-0324,-0324
+silius,Tiberius Catius Silius Italicus,yes,"Silius Italicus, Tiberius Catius (0025?-0101)",http://data.bnf.fr/ark:/12148/cb11924756s,http://www.idref.fr/027138143/id,0025,0025,0101,0101
+caton,Caton,yes,"Cato, Valerius (0090-0001 av. J.C.)",http://data.bnf.fr/ark:/12148/cb13320433k,http://www.idref.fr/034888446/id,-0090,-0090,-0001,-0001
+aristophane,Aristophane,yes,Aristophane (0445?-0386? av. J.-C.),http://data.bnf.fr/ark:/12148/cb118890862,http://www.idref.fr/026690268/id,-0445,-0445,-0386,-0386
+labeon,Labéon,no,,,,-0050,-0050,0020,0020
+clement-1,Clément I,yes,Clément I (00..-0097? ; pape),http://data.bnf.fr/ark:/12148/cb120508131,http://www.idref.fr/028732642/id,0001,0099,,
+pompeius,Pompée,yes,Pompée (0075-0035 av. J.-C.),http://data.bnf.fr/ark:/12148/cb146224462,http://www.idref.fr/138971749/id,-0075,-0075,-0035,-0035
+siculus,Siculus Flaccus,yes,Siculus Flaccus (01..-.... ; agriculteur),http://data.bnf.fr/ark:/12148/cb12289902s,http://www.idref.fr/031739792/id,0100,0199,0100,0199
+appius-claudius,Appius Claudius Caecus,no,,,,-0399,-0300,-0299,-0200
+severe,Alexandre Sévère,yes,Sévère Alexandre (0208-0235),http://data.bnf.fr/ark:/12148/cb12194304n,http://www.idref.fr/030550076/id,0208,0208,0235,0235
+cassius,Dion Cassius,no,,,,0155,0155,0235,0235
+inno-1,Innocent I,yes,Innocent I (03..-0417 ; pape),http://data.bnf.fr/ark:/12148/cb11886601s,http://www.idref.fr/026659484/id,0300,0399,,
+galien,Galien,no,,,,0131,0131,0201,0201
+velleius,Caius Velleius Paterculus,yes,"Velleius Paterculus, Caius (0019? av. J.-C.-0031?)",http://data.bnf.fr/ark:/12148/cb11887817z,http://www.idref.fr/026674211/id,-0019,-0019,0031,0031
+valentinien,Valentinien,no,,,,0419,0419,0455,0455
+pomponius,Sextus Pomponius,no,,,,0100,0199,0100,0199
