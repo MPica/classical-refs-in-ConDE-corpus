@@ -1,0 +1,12 @@
+
+### Main used files (in 'output' folder):
+
+* [tableau-recap.csv](dataviz_2022-09-28/tableau-recap.csv) puts the "classical" quotes in perspective with the total of quotes and the size of each work. Made via *get-percentages* script directly from the corpus.
+* [all_classic_occurrences_20220924_1926.csv](extraction_20220924_1926/all_classic_occurrences_20220924_1926.csv) is the ground truth for all other tables. It contains all information on authors, context columns and separate title columns. Made via *sort-and-extract* script directly from the corpus.
+* [no_quote_20220924_2057.csv](dataviz_20220924_2057/no_quote_20220924_2057.csv) removes the text to focus on data visualization, and counts the number of occurrences for each author in each section. Made via *dataviz* script from the *all-classic-occurrences* table.
+* [by_custAuthor_20220924_2057.csv](dataviz_20220924_2057/by_custAuthor_20220924_2057.csv) removes the section detail to focus on authors and counts the number of occurrences for each author in each work. Made via *dataviz* script from the *all-classic-occurrences* table.
+* [authors_20220924_2057.csv](dataviz_20220924_2057/authors_20220924_2057.csv) removes the work information to focus on the authors, their dates and total number of mentions in the corpus. Made via *dataviz* script from the *all-classic-occurrences* table.
+* [2022-09-27_authors_for_gantt_chart.csv](2022-09-27_authors_for_gantt_chart) makes a specific table from the author dates, in order to show their personal chronologic distribution. Made via *dataviz* script from the *authors* table.
+* [2022-09-27_no_quote.csv](2022-09-27_no_quote.csv) removes all text columns and adds the general theme. Made via *deduce-theme* script from a modified *all-classic-occurrences* table.
+* [2022-09-24_data-export_palladio-1-2-9.json](2022-09-24_data-export_palladio-1-2-9.json) was made using [Palladio](https://hdlab.stanford.edu/palladio-app/#/upload) and the [by_custAuthor_20220924_2057.csv](../../dataviz__20220924_2057/by_custAuthor_20220924_2057.csv) file, and is meant to be re-uploaded to Palladio for live display of the authors and works as an interactive network.
+* [couples-resume.csv](dataviz_2022-09-28/couples-resume.csv) shows couples of authors mentionned in the same section at least three times in the same general subject. Made via *cooccurrences* script from *2022-09-27_no-quote* table.
