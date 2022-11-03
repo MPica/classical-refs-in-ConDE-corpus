@@ -47,6 +47,7 @@ Documentation is within the [dataviz](dataviz) folder.
 
 ### Scripts:
 
+* All scripts were originally executed using Python 3.9.7.
 * The main Python script is [sort_and_extract.ipynb](sort_and_extract.ipynb) extracts the entity information on relevant authors from the ConDÉ corpus, connects them with their IdRef entity when possible, and extracts all mentions within the corpus as left-hand context, mention, right-hand context and precise origin information (part > chapter > section titles). Its outputs are written within a folder bearing a minute time stamp. They are: a general author CSV table, its equivalent in Json, the relevant author CSV table, an occurrence output report and one CSV table per author, containing every extracted information.
 
 The next and Python scripts exploit the general output of the first.
