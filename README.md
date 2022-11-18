@@ -1,4 +1,4 @@
-# classical-refs-in-ConDE-corpus
+# "Classic" references within the ConDÉ corpus: tools and results
 Material for a [paper](https://www.fabula.org/actualites/109702/lire-les-classiques-en-normandie.html) communicated on 6. October 2022 in Rouen ([call](https://rmblf.be/2022/02/04/appel-a-contribution-lire-les-classiques-en-normandie/))
 
 The slides are available as a [PDF file](2022-10-06_rouen_classiques-normandie.pdf).
